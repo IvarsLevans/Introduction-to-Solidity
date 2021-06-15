@@ -31,6 +31,19 @@
 						"type": "address"
 					}
 				],
+				"name": "changePlayerLEvel",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "playerAddress",
+						"type": "address"
+					}
+				],
 				"name": "getPlayerLevel",
 				"outputs": [
 					{
@@ -84,6 +97,11 @@
 						"internalType": "string",
 						"name": "lastName",
 						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "createdTime",
+						"type": "uint256"
 					}
 				],
 				"stateMutability": "view",
@@ -103,7 +121,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/3_Data_Types.sol": "myGame"
+			"contracts/5.1_Time.sol": "myGame"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -117,11 +135,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/3_Data_Types.sol": {
-			"keccak256": "0xb27e2e121da5a4da949b50e00c44cd1576d9f1bc76d75f329bf99772b3090066",
+		"contracts/5.1_Time.sol": {
+			"keccak256": "0xb11fe8679b2a2e973324b3c8479f6c80b3b06cb0ee706cfb9406a07a74f0da49",
 			"urls": [
-				"bzz-raw://a18cd3a409ed2c6e9e66d56d41dab3561dde4ca5a476b06e43ede5e3cbf21f2c",
-				"dweb:/ipfs/QmReGWEz8H6TVEhm1ka1ho4dfmRNr7qR7m27Mfd4VtBuei"
+				"bzz-raw://1fea6b312120111afa2fc06d6032ec64250947c6bc36bb94eb6abc39afe99725",
+				"dweb:/ipfs/Qme4mBS732kXCZfoVLiX5N4iRCmGsVQCapLQDQT2XuR2eR"
 			]
 		}
 	},

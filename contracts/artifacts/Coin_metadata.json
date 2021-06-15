@@ -117,7 +117,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/4_Modifiers.sol": "Coin"
+			"contracts/5.2_Time.sol": "Coin"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -131,11 +131,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/4_Modifiers.sol": {
-			"keccak256": "0x1384a49dcc1e469252e94e29d20be043e131daddb0a5eb99ffb91c71f005a01a",
+		"contracts/5.2_Time.sol": {
+			"keccak256": "0x8ca68f91c61b04400e08c0a99670f674b5151f7994c04e3b9ceb39a7a3f2ea7f",
 			"urls": [
-				"bzz-raw://3673da312e0e860a809dcac5a499b9cae71ea14463cb799e7be3a810e1c01182",
-				"dweb:/ipfs/QmSEu9naKU9ApUg3FPmK9ucWVM5DTqngfn3ELbpLXDB29i"
+				"bzz-raw://6fc8cb38fa9eabb2e071117387271c3a2615149551c44bae9ec211bcba171684",
+				"dweb:/ipfs/QmNcKE64jsmvVuYcGgZajwtX1UfaqLGkG91zc1R1TFc9Ad"
 			]
 		}
 	},
