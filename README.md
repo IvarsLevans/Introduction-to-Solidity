@@ -14,3 +14,4 @@
 * Modifiers
 * Time
 * Simple Auction
+* Automating Transfers
