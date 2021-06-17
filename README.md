@@ -15,3 +15,4 @@
 * Time
 * Simple Auction
 * Automating Transfers
+* Blind Auction
