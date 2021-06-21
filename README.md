@@ -17,3 +17,4 @@
 * Automating Transfers
 * Blind Auction
 * Escrow contract
+* Voting System

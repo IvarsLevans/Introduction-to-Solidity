@@ -146,7 +146,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/9_Escrow.sol": "Escrow"
+			"Introduction-to-Solidity/contracts/9_Escrow.sol": "Escrow"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -160,7 +160,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/9_Escrow.sol": {
+		"Introduction-to-Solidity/contracts/9_Escrow.sol": {
 			"keccak256": "0x8139470be62cd4ab21e0c82208a4d4a9c5918742bfc0a944a523968ad455aa49",
 			"urls": [
 				"bzz-raw://9b8963e17f44d0451a36f2dde06bf0764b97a869514dcfb99853bb700f039aba",
