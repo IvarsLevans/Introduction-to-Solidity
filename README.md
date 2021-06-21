@@ -16,3 +16,4 @@
 * Simple Auction
 * Automating Transfers
 * Blind Auction
+* Escrow contract
